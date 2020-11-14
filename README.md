@@ -1,4 +1,4 @@
-# 🤖 TwitterAutoReplyBot
+# 🤖 Twitter-Bot
 
 Para usar Twitter-Bot necesitas Python3 y el módulo Tweepy.
 
@@ -6,4 +6,5 @@ Para usar Twitter-Bot necesitas Python3 y el módulo Tweepy.
 ```
  $ pip install tweepy
 ```
-## :heart: Gracias
+## :heart: Con amor
+@mckrosario
