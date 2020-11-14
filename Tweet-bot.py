@@ -1,3 +1,5 @@
+# Requerimientos: tweepy (pip install tweepy)
+
 # Tweet-bot para Twitter, usando Python y Tweepy.
 # Twittea texto e imágenes directamente desde la terminal.
 

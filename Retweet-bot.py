@@ -1,3 +1,6 @@
+# Requerimientos: tweepy (pip install tweepy)
+
+
 # Retweet-bot para Twitter, usando Python y Tweepy.
 # Búsqueda mediante hashtag o palabra clave.
 
